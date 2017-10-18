@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'narray_ffi', '~> 1.2', '>=1.2.0'
   s.add_dependency 'opencl_ruby_ffi', '~> 1.3', '>=1.3.2'
   s.add_dependency 'systemu', '~> 2', '>=2.2.0'
-  s.add_dependency 'os', '~> 0.9', '>=0.9.6'
+  s.add_dependency 'os', '~> 1.0', '>=1.0.0'
   s.add_dependency 'PAPI', '~> 1.0', '>=1.0.0'
   s.add_dependency 'hwloc', '~> 0.3', '>=0.3.0'
   s.add_dependency 'ffi', '~> 1.9', '>=1.9.3'
